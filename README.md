@@ -1,16 +1,103 @@
-## Hi there 👋
+<h1 align="center">Eu sou o Henrique 👋</h1>
 
-<!--
-**henriquejochen/henriquejochen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Desenvolvedor Full Stack em formação
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Construindo aplicações completas, do backend ao frontend, enquanto aprofundo meus conhecimentos em arquitetura de software, bancos de dados e desenvolvimento web.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mim
+
+🎓 Estudante de Engenharia de Software (UNISATC)
+💻 Desenvolvedor Full Stack em formação
+🌱 Estudando Java, Spring Boot, Node.js e React
+🗄️ Aprimorando conhecimentos em SQL, modelagem de dados e APIs REST
+🚀 Em transição para minha primeira posição como desenvolvedor
+
+---
+
+## 🚀 Projetos em destaque
+
+### [app-aluno-react](https://github.com/henriquejochen/app-aluno-react)
+Aplicação React com integração à API do GitHub, roteamento e gerenciamento de contexto via Vite.
+
+### [Projeto Academia - Banco de Dados](https://github.com/henriquejochen/Projeto-academia-banco-de-dados)
+Sistema de gestão de academia com Flask + PostgreSQL — CRUD completo, incluindo modelagem de dados e configuração de conexão ao banco.
+
+### Algoritmos de Ordenação e Grafos
+Implementações de algoritmos de ordenação e do algoritmo de Dijkstra para cálculo de menor caminho entre cidades da região Sul de Santa Catarina.
+
+---
+
+## 🛠 Stack
+
+### 💻 Linguagens
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask" />
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### 🗄️ Banco de Dados
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
+
+### 🛠 Ferramentas
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,notion,docker,linux,windows" />
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+- ☕ Java + Spring Boot
+- ⚛️ React
+- 🟢 Node.js
+- 🌐 APIs REST
+- 🐳 Docker
+- 🏗️ Arquitetura de Software
+- ☁️ Fundamentos de Cloud
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=henriquejochen&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquejochen&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=henriquejochen&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Contato
+
+<p>
+<a href="https://www.linkedin.com/in/COLOQUE-SEU-USUARIO-AQUI">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:coloque-seu-email-aqui@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=120&section=footer"/>
+</p>
