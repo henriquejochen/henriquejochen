@@ -90,10 +90,10 @@ Implementações de algoritmos de ordenação e do algoritmo de Dijkstra para c�
 ## 📫 Contato
 
 <p>
-<a href="https://www.linkedin.com/in/COLOQUE-SEU-USUARIO-AQUI">
+<a href="https://www.linkedin.com/in/henrique-jochen-128423173/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:coloque-seu-email-aqui@gmail.com">
+<a href="mailto:henriquejochenoliveira@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
