@@ -12,11 +12,10 @@ Construindo aplicações completas, do backend ao frontend, enquanto aprofundo m
 
 ## 👨‍💻 Sobre mim
 
-🎓 Estudante de Engenharia de Software (UNISATC)
+🎓 Estudante de Engenharia de Software 4ª fase (UNISATC)
 💻 Desenvolvedor Full Stack em formação
 🌱 Estudando Java, Spring Boot, Node.js e React
 🗄️ Aprimorando conhecimentos em SQL, modelagem de dados e APIs REST
-🚀 Em transição para minha primeira posição como desenvolvedor
 
 ---
 
@@ -37,12 +36,12 @@ Implementações de algoritmos de ordenação e do algoritmo de Dijkstra para c�
 
 ### 💻 Linguagens
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c++,c" />
 </p>
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask" />
+<img src="https://skillicons.dev/icons?i=flask" />
 </p>
 
 ### 🎨 Frontend
@@ -52,19 +51,19 @@ Implementações de algoritmos de ordenação e do algoritmo de Dijkstra para c�
 
 ### 🗄️ Banco de Dados
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
 ### 🛠 Ferramentas
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,notion,docker,linux,windows" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
 </p>
 
 ---
 
 ## 📚 Atualmente estudando
 
-- ☕ Java + Spring Boot
+- ☕ Java 
 - ⚛️ React
 - 🟢 Node.js
 - 🌐 APIs REST
