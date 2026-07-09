@@ -92,8 +92,8 @@ Implementações de algoritmos de ordenação e do algoritmo de Dijkstra para c�
 <a href="https://www.linkedin.com/in/henrique-jochen-128423173/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:henriquejochenoliveira@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:henriquejochenoliveira@outlook.com">
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
 </p>
 
