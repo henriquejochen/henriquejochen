@@ -88,7 +88,7 @@ Implementações de algoritmos de ordenação e do algoritmo de Dijkstra para c�
 
 ## 📫 Contato
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/henrique-jochen-128423173/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -97,6 +97,3 @@ Implementações de algoritmos de ordenação e do algoritmo de Dijkstra para c�
 </a>
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=120&section=footer"/>
-</p>
