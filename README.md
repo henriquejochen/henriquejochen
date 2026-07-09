@@ -36,7 +36,7 @@ Implementações de algoritmos de ordenação e do algoritmo de Dijkstra para c�
 
 ### 💻 Linguagens
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c++,c" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
 </p>
 
 ### ⚙️ Backend
