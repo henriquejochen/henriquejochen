@@ -21,7 +21,7 @@ Construindo aplicações completas, do backend ao frontend, enquanto aprofundo m
 
 ## 🚀 Projetos em destaque
 
-### [app-aluno-react](https://github.com/henriquejochen/app-aluno-react)
+### [Projeto-app-aluno-Front-End](https://github.com/henriquejochen/Projeto-app-aluno-Front-End-.git)
 Aplicação React com integração à API do GitHub, roteamento e gerenciamento de contexto via Vite.
 
 ### [Projeto Academia - Banco de Dados](https://github.com/henriquejochen/Projeto-academia-banco-de-dados)
