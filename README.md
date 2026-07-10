@@ -32,7 +32,7 @@ Implementações de algoritmos de ordenação e do algoritmo de Dijkstra para c�
 
 ### 💻 Linguagens
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
 </p>
 
 ### ⚙️ Backend
