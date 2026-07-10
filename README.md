@@ -1,10 +1,7 @@
 <h1 align="center">Eu sou o Henrique 👋</h1>
-</td>
-<td width="40%">
-<img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl3nrau2d4nqo6v2i3hw.gif" width="250"/>
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl3nrau2d4nqo6v2i3hw.gif" width="400"/>
+</p>
 
 ---
 
