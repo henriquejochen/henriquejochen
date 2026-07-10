@@ -7,10 +7,11 @@
 
 ## 👨‍💻 Sobre mim
 
--🎓 Estudante de Engenharia de Software 4ª fase (UNISATC)
--💻 Desenvolvedor Full Stack em formação
--🌱 Estudando Java, Spring Boot, Node.js e React
--🗄️ Aprimorando conhecimentos em SQL, modelagem de dados e APIs REST
+- 🎓 Estudante de Engenharia de Software 4ª fase (UNISATC)
+- 💻 Desenvolvedor Full Stack em formação
+- 🌱 Estudando Java, Spring Boot, Node.js e React
+- 🗄️ Aprimorando conhecimentos em SQL, modelagem de dados e APIs REST
+- 🚀 Em transição para minha primeira posição como desenvolvedor
 
 ---
 
