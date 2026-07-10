@@ -77,9 +77,13 @@ Implementações de algoritmos de ordenação e do algoritmo de Dijkstra para c�
 
 <p align="center">
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=henriquejochen&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henriquejochen&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
+<p align="center">
+<img height="170" src="https://streak-stats.demolab.com?user=henriquejochen&theme=tokyonight&hide_border=true"/> 
+</p>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=henriquejochen&theme=tokyonight&hide_border=true"/>
 </p>
