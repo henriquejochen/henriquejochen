@@ -1,11 +1,8 @@
-<h1 align="center">Eu sou o Henrique 👋</h1>
-
-<h3 align="center">
-Desenvolvedor Full Stack em formação
-</h3>
-
 <p align="center">
-Construindo aplicações completas, do backend ao frontend, enquanto aprofundo meus conhecimentos em arquitetura de software, bancos de dados e desenvolvimento web.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=200&section=header&text=Henrique%20Jochen&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=55&descSize=20"/>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Construindo+apps+com+Java%2C+React+e+Node.js;Aprendendo+SQL%2C+APIs+REST+e+arquitetura;Em+busca+da+primeira+oportunidade+Full+Stack" />
 </p>
 
 ---
