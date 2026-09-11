@@ -37,7 +37,7 @@ Implementações de algoritmos de ordenação e do algoritmo de Dijkstra para c�
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=flask, java" />
 </p>
 
 ### 🎨 Frontend
