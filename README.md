@@ -23,8 +23,9 @@ Aplicação React com integração à API do GitHub, roteamento e gerenciamento 
 ### [Projeto Academia - Banco de Dados](https://github.com/henriquejochen/Projeto-academia-banco-de-dados)
 Sistema de gestão de academia com Flask + PostgreSQL — CRUD completo, incluindo modelagem de dados e configuração de conexão ao banco.
 
-### Algoritmos de Ordenação e Grafos
-Implementações de algoritmos de ordenação e do algoritmo de Dijkstra para cálculo de menor caminho entre cidades da região Sul de Santa Catarina.
+### [Projeto Back End - Agronegócio](https://github.com/henriquejochen/Projeto-Back-End-Agronegocio-)
+Backend para produtores e responsáveis pelo manejo cadastrarem talhões e culturas. O sistema controla a ocupação das áreas, a necessidade de irrigação e a previsão de colheita.
+Projeto para disciplina de Backend.
 
 ---
 
